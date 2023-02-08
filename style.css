@@ -46,6 +46,7 @@ nav {
 
 a {
     color: #ddd;
+    text-decoration: none;
 }
 
 head {
@@ -53,19 +54,22 @@ head {
 }
 
 main p {
-    margin-bottom: #777 30px;
-    text-align:
+    margin-bottom: #777 40px;
 }
 
 .more-articles {
     border-top: #777 1px solid;
-    margin-top: -2px;
-    display: inline-block;
-    padding: 10px;
-    vertical-align: top;
+    margin-top: 10px;
+    padding: .25rem;
+    vertical-align: middle;
+    margin: .25rem;
 }
 
-#img-articles {
+section {
     display: inline-block;
+    width: 35%;
+    padding: 3rem
 }
+
+
 
